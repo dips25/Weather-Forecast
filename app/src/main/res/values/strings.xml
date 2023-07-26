@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="celcius">Celcius\n</string>
+    <string name="farheneit">Farheneit</string>
+</resources>
